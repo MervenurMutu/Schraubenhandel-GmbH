@@ -11,6 +11,8 @@ namespace Programm
         static void Main(string[] args)
         { //Test
             //Nochmal Test 
+            Console.WriteLine("D");
+            Console.ReadKey();
         }
     }
 }
